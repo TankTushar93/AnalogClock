@@ -20,3 +20,7 @@ sec.style.transform = `rotate(${sRotation}deg)`;
 }
 
 setInterval(displaytime,1000)
+
+
+
+//this was changed in second branch which is newly created
