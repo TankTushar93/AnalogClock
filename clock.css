@@ -16,6 +16,8 @@ body{
     position: relative;
 }
 
+/* this was changed in second branch which is newly created */
+
 .clock{
     width: 300px;
     height: 300px;
